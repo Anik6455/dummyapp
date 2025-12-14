@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "82QOeKcI2QLwslD4COBOT4CV8I4Xge8bhnZB9/uUCJg=",
+  "Source": "dummyapp",
+  "BasePath": "_content/dummyapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
